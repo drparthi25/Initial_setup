@@ -1,0 +1,46 @@
+
+##################### Initial Setting up started #####################
+
+Firewall: Disabled
+
+Folder Structure : Created
+
+Turn On Fast Startup : Disabled
+
+IPV6 : Disable
+
+Driver signing : Enabled
+
+Power settings : Never
+
+Dotnetframework : Enabled
+
+RUNCMDASADMIN : SET
+
+UAC : Disabled
+
+Disable_pwd_on_Windows_startup : Disabled
+
+Tools : Copied
+
+Python : Installed
+
+PYTHONPATH : SET
+
+SendKeys : Installed
+
+Pywinauto : Installed
+
+pywin32 : Installed
+
+PIL: Installed
+
+WMI : Installed
+
+Pyserial : Installed
+
+HWAPI : Installed
+
+Password Protected Sharing : Turned OFF
+
+##################### Initial Setting up Completed #####################
